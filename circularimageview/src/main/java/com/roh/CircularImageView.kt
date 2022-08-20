@@ -1,4 +1,4 @@
-package com.roh.circular_imageview
+package com.roh
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -57,3 +57,9 @@ class CircularImageView(
 
 
 }
+
+//signing.keyId=A52A25D5
+//signing.password=R0hit@Karu143
+//signing.secretKeyRingFile=~/.gnupg/secring.gpg
+//ossrhUsername=charlie07
+//ossrhPassword=R0hit@Karu143
